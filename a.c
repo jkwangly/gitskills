@@ -11,3 +11,4 @@ suzhou
 hangzhou
 
 changzhou
+wuxi
